@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f969cafa.chunk.css",
+    "main.js": "./static/js/main.635a5ed6.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.78c19742.js",
+    "static/css/2.d11ac5af.chunk.css": "./static/css/2.d11ac5af.chunk.css",
+    "static/js/2.8317ab16.chunk.js": "./static/js/2.8317ab16.chunk.js",
+    "static/js/3.d29ceb2b.chunk.js": "./static/js/3.d29ceb2b.chunk.js",
+    "static/js/4.3fd83749.chunk.js": "./static/js/4.3fd83749.chunk.js",
+    "static/js/5.3f45853d.chunk.js": "./static/js/5.3f45853d.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.8317ab16.chunk.js.LICENSE.txt": "./static/js/2.8317ab16.chunk.js.LICENSE.txt",
+    "static/js/3.d29ceb2b.chunk.js.LICENSE.txt": "./static/js/3.d29ceb2b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/moonstop.e9e2ef23.png",
+    "static/media/bscscan.9f26b25c.svg": "./static/media/bscscan.9f26b25c.svg",
+    "static/media/logo-red.c70ff5f6.svg": "./static/media/logo-red.c70ff5f6.svg",
+    "static/media/polygonscan.fadc4e4c.svg": "./static/media/polygonscan.fadc4e4c.svg",
+    "static/media/rain.77ec8c0a.png": "./static/media/rain.77ec8c0a.png",
+    "static/media/trend-up.5741a79b.png": "./static/media/trend-up.5741a79b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78c19742.js",
+    "static/css/2.d11ac5af.chunk.css",
+    "static/js/2.8317ab16.chunk.js",
+    "static/css/main.f969cafa.chunk.css",
+    "static/js/main.635a5ed6.chunk.js"
+  ]
+}
